@@ -8,7 +8,7 @@
   <img align="left" alt="Dhananjay's Website" width="22px" src="https://www.shareicon.net/data/2017/07/08/888169_www_512x512.png" />
 </a>
 <a href="https://www.facebook.com/imdjay9/">
-  <img align="left" alt="Dhananjay's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+  <img align="left" alt="Dhananjay's Facebook" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg" />
 </a>
 <a href="https://twitter.com/imDjay9">
   <img align="left" alt="Dhananjay Kumar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
