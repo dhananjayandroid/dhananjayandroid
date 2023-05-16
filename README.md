@@ -1,5 +1,5 @@
 <a href="https://medium.com/@imdjay">
-  <img align="left" alt="Dhananjay's Medium" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Medium_icon.svg/240px-Medium_icon.svg.png" />
+  <img align="left" alt="Dhananjay's Medium" width="22px" src="https://miro.medium.com/v2/resize:fit:1400/1*psYl0y9DUzZWtHzFJLIvTw.png" />
 </a>
 <a href="https://www.linkedin.com/in/imdjay/">
   <img align="left" alt="Dhananjay's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
