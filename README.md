@@ -20,7 +20,8 @@
 </br>
 
 ### Hi there 👋 
-### I am Dhananjay.  _You can call me_ **Djay**.
+## I am Dhananjay.  _You can call me_ **Djay**.
+#### Founder - [AppRerum](https://apprerum.design/).
 
 <!--
 **dhananjayandroid/dhananjayandroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -40,4 +41,5 @@ Here are some ideas to get you started:
  
 • :cyclone: Oracle Certified Java Developer
 
-• :cyclone: Android Developer
+• :cyclone: Mobile Developer, Expertise - Android
+
