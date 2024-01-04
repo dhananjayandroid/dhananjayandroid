@@ -2,7 +2,7 @@
   <img align="left" alt="Dhananjay's Medium" width="22px" src="https://miro.medium.com/v2/resize:fit:1400/1*psYl0y9DUzZWtHzFJLIvTw.png" />
 </a>
 <a href="https://www.linkedin.com/in/imdjay/">
-  <img align="left" alt="Dhananjay's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Dhananjay's LinkedIN" width="22px" src="https://github.com/dhananjayandroid/dhananjayandroid/blob/main/linkedin.png" />
 </a>
 <a href="https://stackoverflow.com/users/4377954/de%cb%a3">
   <img align="left" alt="Dhananjay's StackOverflow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" />
@@ -14,7 +14,7 @@
   <img align="left" alt="Dhananjay's Facebook" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg" />
 </a>
 <a href="https://twitter.com/imDjay9">
-  <img align="left" alt="Dhananjay Kumar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Dhananjay Kumar | Twitter" width="22px" src="https://github.com/dhananjayandroid/dhananjayandroid/blob/main/twitter.x.webp" />
 </a>
 
 </br>
