@@ -21,7 +21,7 @@
 
 ### Hi there 👋 
 ## I am Dhananjay.  _You can call me_ **Djay**.
-#### Founder - [AppRerum](https://apprerum.design/).
+#### Founder - [AppRerum](https://apprerum.com/).
 
 <!--
 **dhananjayandroid/dhananjayandroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
