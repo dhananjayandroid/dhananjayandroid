@@ -7,7 +7,7 @@
 <a href="https://stackoverflow.com/users/4377954/de%cb%a3">
   <img align="left" alt="Dhananjay's StackOverflow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" />
 </a>
-<a href="https://imdjay.design">
+<a href="https://dhananjayandroid.github.io/intro/">
   <img align="left" alt="Dhananjay's Website" width="22px" src="https://www.shareicon.net/data/2017/07/08/888169_www_512x512.png" />
 </a>
 <a href="https://www.facebook.com/imdjay9/">
