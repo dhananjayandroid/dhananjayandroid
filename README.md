@@ -1,45 +1,70 @@
-<a href="https://medium.com/@imdjay">
-  <img align="left" alt="Dhananjay's Medium" width="22px" src="https://miro.medium.com/v2/resize:fit:1400/1*psYl0y9DUzZWtHzFJLIvTw.png" />
-</a>
-<a href="https://www.linkedin.com/in/imdjay/">
-  <img align="left" alt="Dhananjay's LinkedIN" width="22px" src="https://github.com/dhananjayandroid/dhananjayandroid/blob/main/linkedin.png" />
-</a>
-<a href="https://stackoverflow.com/users/4377954/de%cb%a3">
-  <img align="left" alt="Dhananjay's StackOverflow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" />
-</a>
-<a href="https://dhananjayandroid.github.io/intro/">
-  <img align="left" alt="Dhananjay's Website" width="22px" src="https://www.shareicon.net/data/2017/07/08/888169_www_512x512.png" />
-</a>
-<a href="https://www.facebook.com/imdjay9/">
-  <img align="left" alt="Dhananjay's Facebook" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg" />
-</a>
-<a href="https://twitter.com/imDjay9">
-  <img align="left" alt="Dhananjay Kumar | Twitter" width="22px" src="https://github.com/dhananjayandroid/dhananjayandroid/blob/main/twitter.x.webp" />
-</a>
+<div align="center">
+  <h1>Hi 👋 I'm Dhananjay Kumar</h1>
+  <h3>Software Development Manager | Android Expert | 14+ Years Experience</h3>
+</div>
 
-</br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/imdjay/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/dhananjayandroid"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://x.com/imdjay9"><img src="https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white"/></a>
+  <a href="https://medium.com/@imdjay"><img src="https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white"/></a>
+  <a href="https://stackoverflow.com/users/4377954/de%cb%a3"><img src="https://img.shields.io/badge/-Stack_Overflow-F58025?style=flat&logo=stack-overflow&logoColor=white"/></a>
+  <a href="mailto:dhananjayandroid@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+</p>
 
-### Hi there 👋 
-## I am Dhananjay.  _You can call me_ **Djay**.
-#### Founder - [AppRerum](https://apprerum.com/).
+## 👨‍💻 About Me
 
-<!--
-**dhananjayandroid/dhananjayandroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🏢 Software Development Manager @ **Accenture** | Founder @ **AppRerum**
+- 📱 14+ years specializing in **Android**, **Kotlin**, **Java**, and **Mobile Architecture**
+- 🎯 Delivered **45+ projects** with **100% client satisfaction**
+- 🏆 **Oracle Certified Java Programmer** (SCJP)
+- 📍 Based in **Bengaluru, India**
+- 🌐 Portfolio: [imdjay.uk](https://imdjay.uk)
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/-Jetpack_Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
+![MVVM](https://img.shields.io/badge/-MVVM-000000?style=flat&logo=android&logoColor=white)
+![Coroutines](https://img.shields.io/badge/-Coroutines-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
- 
-• :cyclone: Oracle Certified Java Developer
+**Expertise:** Clean Architecture • Dagger/Hilt • RxJava • Retrofit • Room • REST APIs • iOS • React Native
 
-• :cyclone: Mobile Developer, Expertise - Android
+## 📊 GitHub Stats
 
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=dhananjayandroid&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhananjayandroid&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**LocateSecurly**](https://github.com/dhananjayandroid/LocateSecurly) | Background location tracking with session history | Kotlin, Location Services |
+| [**NewsApp**](https://github.com/dhananjayandroid/NewsApp) | News app with MVVM architecture | Kotlin, Dagger2, Retrofit, LiveData |
+| [**ShoppingCart**](https://github.com/dhananjayandroid/ShoppingCart) | E-commerce demo with Espresso tests | Android, Espresso |
+| [**SweetDogs**](https://github.com/dhananjayandroid/SweetDogs) | UI/UX showcase application | Android, Material Design |
+
+## 💼 Experience
+
+- **Software Development Manager** @ Accenture (2024 - Present)
+- **Lead Experience Engineer** @ Publicis Sapient (2019 - 2024)
+- **Associate Architect** @ Nitor Infotech (2014 - 2019)
+
+## 📫 Let's Connect
+
+Feel free to reach out for collaborations or just a friendly chat about Android development!
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dhananjayandroid&color=blueviolet&style=flat" alt="Profile views"/>
+  <br/>
+  <sub>💻 Building mobile experiences that scale | 🚀 Open for collaborations</sub>
+</div>
