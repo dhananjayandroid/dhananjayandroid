@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-- 🏢 Software Development Manager @ **Accenture** | Founder @ **AppRerum**
+- 🏢 Software Development Manager @ **Accenture** | Founder @ **AppRerum** | Co-Founder @ **CardyOz**
 - 📱 14+ years specializing in **Android**, **Kotlin**, **Java**, and **Mobile Architecture**
 - 🎯 Delivered **45+ projects** with **100% client satisfaction**
 - 🏆 **Oracle Certified Java Programmer** (SCJP)
