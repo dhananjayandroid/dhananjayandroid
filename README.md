@@ -19,7 +19,7 @@
 - 🎯 Delivered **45+ projects** with **100% client satisfaction**
 - 🏆 **Oracle Certified Java Programmer** (SCJP)
 - 📍 Based in **Bengaluru, India**
-- 🌐 Portfolio: [imdjay.uk](https://imdjay.uk)
+- 🌐 Portfolio: [imdjay.in](https://imdjay.in)
 
 ## 🛠️ Tech Stack
 
